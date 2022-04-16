@@ -1,2 +1,6 @@
 # CIV1498_Project2_Pijiang2Geliang
-This repository contains CIV1498 Project 2 - Bike Share Toronto Ridership Optimization
+This repository contains our team Pijiang2Geliang’s Bike Share Toronto Ridership Optimization project as the final team project of the course CIV1498 — Introduction to Data Science for Civil & Mineral Engineers at the University of Toronto. 
+
+Project Background: This project utilizes data from the Bike Share Toronto system. The premise for this project is that we’ve been hired by the City of Toronto to conduct an in-depth analysis of Bike Share Toronto data that the city has acquired over the past 5 years (2017, 2018, 2019, 2020, 2021). After running the Bike Share Toronto program for the past five years, the City of Toronto is preparing to expand the program by moving into new GTA neighbourhoods and densifying existing downtown infrastructure. Before the expansion, it wants to analyze the 5 years of historic data to help inform the program moving forward. 
+
+The project is composed of data cleaning, exploratory data analysis, and a simple linear regression model. The medium article for this project is linked here (https://medium.com/@junjie.kang/b21d5883e504). This repository includes all code and documentation: one Jupyter notebook file for exploratory analysis code (‘Part 1 - Analysis Part_Pijiang 2 Geliang.ipynb’), one Jupyter notebook file for modelling code (‘Part 2 - project_model_final.ipynb’), input data, intermediate data and other documentation. Hopefully, with this repository, you could reproduce our results easily.
